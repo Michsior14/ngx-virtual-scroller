@@ -4,7 +4,7 @@
   "version": "5.0.0",
   "description": "Angular module for virtual -infinite- list. Supports horizontal/vertical, variable heights, & multi-column",
   "main": "dist/virtual-scroller.js",
-  "types": "dist/virtual-scroller.d.ts",
+  "types": "ngx-virtual-scroller.d.ts",
   "sideEffects": true,
   "scripts": {
     "cleanup": "rimraf dist",
