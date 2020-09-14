@@ -22,6 +22,7 @@
   "ngPackage": {
     "lib": {
       "entryFile": "src/virtual-scroller.ts",
+      "flatModuleFile": "ngx-virtual-scroller",
       "umdModuleIds": {
         "@tweenjs/tween.js": "TWEEN"
       }
