@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rintoj/ngx-virtual-scroller.git"
+    "url": "git+https://github.com/Michsior14/ngx-virtual-scroller.git"
   },
   "keywords": [
     "virtual scroll",
@@ -56,9 +56,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rintoj/ngx-virtual-scroller/issues"
+    "url": "https://github.com/Michsior14/ngx-virtual-scroller/issues"
   },
-  "homepage": "https://github.com/rintoj/ngx-virtual-scroller#readme",
+  "homepage": "https://github.com/Michsior14/ngx-virtual-scroller#readme",
   "peerDependencies": {
     "@angular/core": ">=10.0.0"
   },
