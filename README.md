@@ -1,18 +1,3 @@
-# Sponsors
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://moviepix.app/?utm_source=sponsor&utm_campaign=ngx-virtual-scroller" target="_blank">
-          <img src="https://moviepix.app/images/Logo_Small.png">
-          <img src="https://moviepix.app/images/Title_Small.png">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 # @michaukrieg/ngx-virtual-scroller
 
 Virtual Scroll displays a virtual, "infinite" list. Supports horizontal/vertical, variable heights, & multi-column.
